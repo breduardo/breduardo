@@ -23,3 +23,7 @@
 - ⚙️ ReactJS, NextJS, ExpresJS, ReactNative,  RESTfull API’s
 - 👁️ Python, Bash, Pandas
 - 💽 MySQL, SQL, Mongo
+
+## 📅 Hobbies
+- 📸 Photography
+- 🏍️ Motorcycle
