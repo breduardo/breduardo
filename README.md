@@ -19,7 +19,7 @@
 
 - 👨‍💻 Docker, Git, Linux, Nginx
 - 👨‍🎨 Bootstrap, Chartjs, CSS, HTML
-- 📊 Elastic, Kibana
-- ⚙️ ReactJS, NextJS, ExpresJS
+- 📊 Elastic, Kibana, Logstash
+- ⚙️ ReactJS, NextJS, ExpresJS, ReactNative,  RESTfull API’s
 - 👁️ Python, Bash, Pandas
 - 💽 MySQL, SQL, Mongo
