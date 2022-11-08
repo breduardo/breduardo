@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Eduardo</h1>
-<h3 align="center">A passionate full stack developer from Brasil</h3>
+<!-- <h3 align="center">A passionate full stack developer from Brasil</h3> -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 who lives in Brazil.
